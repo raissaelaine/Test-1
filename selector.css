@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(15, 94, 97);
+}
+h1 {
+    color: palevioletred;
+    font-size: 2rem;
+}
+h3 {
+    color:orange;
+}
+P {
+    color: yellow;
+    font-size: 2rem;
+}
+div p {
+    font-size: 25px;
+    font-style: oblique;
+    background-color: purple;
+}
+h4 {
+    color: tomato;
+}
+h5 {
+    color:salmon;
+}
+li {
+    color: rgb(21, 228, 110);
+    font-size: 30px;
+}
+img {
+    margin-bottom: 10px;
+}
+img {
+    vertical-align: left;
+}
+@media screen and (max-width: 400px) {
+    h1 {
+        font-size: 4rem;
+    }
+    p {
+        font-size: 3rem;
+    }
+}
